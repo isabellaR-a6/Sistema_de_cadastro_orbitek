@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="assets/Pictures/Logo.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>Login - União Química</title>
+</head>
+<body>
+
+    <!-- Checkbox invisível que controla a animação -->
+  <input type="checkbox" id="clicou" hidden>
+
+  <!-- Tela preta e imagem central -->
+  <label for="clicou" class="overlay">
+    <video autoplay muted loop class="logo-video">
+    <source src="assets/Pictures/logoanimada.mp4" type="video/mp4">
+  </video>
+    <h2>União Química</h2>
+    <p>clique para prosseguir</p>
+  </label>
+
+
+  <header>
+    <!-- Logo -->
+  <div class="logo">
+    <img src="assets/Pictures/enzoavanze.png" alt="União Química">
+  </div>
+
+  <nav>
+    <div class="icones">
+      <i class="fa-solid fa-magnifying-glass"></i>
+      <i class="fa-solid fa-user"></i>
+    </div>
+  </nav>
+  </header>
+
+  <main>
+     <!-- Área restrita -->
+  <div class="container">
+    <h1>Área Restrita</h1>
+    <form>
+      <label for="email">E-mail:</label>
+      <input type="email" id="email" placeholder="Digite seu e-mail" required>
+
+      <label for="senha">Senha:</label>
+      <input type="password" id="senha" placeholder="Digite sua senha" required>
+
+      <button class="btn" type="button" onclick="window.location.href='index2.html'">Entrar</button>
+    </form>
+  </div>
+
+  </main>
+  
+ 
+</body>
+</html>

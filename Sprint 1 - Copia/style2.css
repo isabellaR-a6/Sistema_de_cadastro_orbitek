@@ -1,0 +1,244 @@
+/* Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Fundo */
+body {
+    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.5)),
+        url("assets/Pictures/enzoa\ \(1\).png") center/cover no-repeat;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Federo", sans-serif;
+}
+
+/* Fonte */
+@font-face {
+    font-family: "Federo";
+    src: url("assets/font/Federo-Regular.ttf") format("truetype");
+}
+
+/* Textos */
+h1,h2,h3,h4,h5,h6,a,p,label,li,input {
+    font-family: "Federo", sans-serif;
+    font-weight: 400;
+}
+
+h1{ font-size: 50px; }
+h2{ font-size: 35px; }
+h3{ font-size: 25px; }
+h4{ font-size: 15px; }
+
+.tela-preta {
+  position: fixed;
+  inset: 0; /* ocupa a tela toda */
+  background: black;
+  z-index: 9999;
+  animation: skibidi 2s ease forwards; /* anima quando abre */
+}
+
+@keyframes skibidi {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+
+/* Header fixo */
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    z-index: 1000;
+}
+
+/* Logo */
+#logo img {
+    height: 70px;
+    width: auto;
+}
+
+/* Ícones no canto direito */
+.icones {
+    display: flex;
+    gap: 15px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.icones i:hover {
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+
+/* Menu */
+nav ul {
+    display: flex;
+    gap: 25px;
+    list-style: none;
+    margin-top: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+nav ul li {
+    cursor: pointer;
+}
+
+nav ul li i {
+    margin-left: 5px;
+    font-size: 14px;
+}
+
+/* Bloco de cadastro */
+.Cadastro {
+    margin-top: 20%;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    opacity: 0.8;
+}
+
+.Cadastro h1 {
+    margin-bottom: 10px;
+    color: #a00000;
+}
+
+/* Links dentro da div baba */
+.baba a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: white;
+    margin-top: 10px;
+    transition: 0.8s;
+}
+
+.sairr{
+    width: 120px;
+    display: flex;
+    justify-self: center;
+}
+
+.baba a:hover {
+    background-color: #a00000;
+    color: white;
+}
+
+/* Botão sair */
+#Sair {
+    background-color: red;
+    color: white;
+    transition: 0.8s;
+    border-radius: 10px;
+}
+
+#Sair:hover{
+    background-color: white;
+    color: red;
+}
+
+/* --- Responsividade para celular --- */
+@media (max-width: 768px) {
+    body {
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        position: relative;          /* permite posicionamento absoluto de elementos */
+        height: 600px;
+        width: 100%;
+    }
+
+    /* Logo acima do container */
+    .logo {
+        position: relative;
+        top: 10px;
+        display: flex;
+        align-items: center;
+        z-index: 1000;
+    }
+
+    .logo img {
+        height: 100px;                 /* logo menor */
+    }
+
+    /* Ícones no canto superior direito */
+    nav .icones {
+          position: absolute;       /* posiciona em relação ao body */
+          top: 10%;                  /* distância do topo da tela */
+          left: 95%;                /* posição inicial à esquerda em 90% da largura */
+          display: flex;
+          gap: 2%;                  /* espaçamento proporcional entre ícones */
+          z-index: 1000;            /* garante que fique acima de outros elementos */
+          transform: translate(-100%, 0); /* ajusta manualmente para o canto direito */
+}
+    nav ul {
+        flex-direction: column;      /* itens do menu empilhados */
+        gap: 8px;
+        width: 100%;
+        text-align: center;
+        margin-top: 80px;            /* dá espaço abaixo do logo */
+    }
+
+    .container {
+        width: 100%;                  /* container ocupa quase toda a tela */
+        padding: 20px;
+        margin-top: 100px;           /* empurra container para baixo do logo */
+    }
+
+    input {
+        width: 100%;                 /* input ocupa toda a largura */
+        padding: 6px;
+        font-size: 14px;
+    }
+
+    .btn {
+        width: 100%;
+        padding: 8px;
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 16px;
+    }
+
+    h4 {
+        font-size: 14px;
+    }
+}

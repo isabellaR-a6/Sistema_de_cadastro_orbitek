@@ -1,0 +1,307 @@
+/* Reset de estilos básicos para garantir consistência entre navegadores */
+* {
+  margin: 0; /* Remove margens padrão */
+  padding: 0; /* Remove preenchimentos padrão */
+  box-sizing: border-box; /* Inclui padding e borda no cálculo da largura/altura */
+}
+
+/* Tela preta + imagem central */
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  z-index: 9999;
+  transition: opacity 1s ease, visibility 1s ease;
+}
+
+.overlay video{
+    width: 300px;
+    height: auto;
+}
+
+.overlay h2{
+    text-decoration: underline;
+    text-decoration-thickness: 1px; /* espessura da linha */
+    text-underline-offset: 5px;  /* distância da linha em relação ao texto */
+}
+
+
+/* Imagem central */
+.overlay-img {
+  width: 200px; /* ajuste do tamanho */
+  max-width: 50%;
+}
+
+/* Quando clicar (checkbox marcado) */
+#clicou:checked + .overlay {
+  opacity: 0;
+  visibility: hidden;
+}
+
+/* Configurações gerais do body */
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), /* camada de cor */
+    url("assets/Pictures/banneruniaoquimica.png") center/cover no-repeat; /* imagem */
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Federo", sans-serif;
+}
+
+
+/* Importa fonte personalizada Federo */
+@font-face {
+  font-family: "Federo";
+  src: url("assets/font/Federo-Regular.ttf") format("truetype");
+}
+
+/* Define a fonte Federo como padrão para textos */
+h1, h2, h3, h4, h5, h6, a, p, label, li, input {
+  font-family: "Federo", sans-serif;
+  font-weight: 400;
+}
+
+/* Ajustes de tamanho para títulos */
+h1 {
+  font-size: 50px;  /* texto grande */
+}
+h2 {
+  font-size: 35px;  /* texto menor que h1 */
+}
+h3 {
+  font-size: 25px;
+}
+h4 {
+  font-size: 15px;
+}
+
+p{
+    color: #787878;
+}
+
+
+/* Header ocupa toda a largura */
+header {
+  position: absolute;     /* Fixa no topo */
+  top: 0;
+  left: 0;
+  width: 100%;            /* Ocupa toda a largura */
+  display: flex;
+  justify-content: space-between; /* Logo à esquerda, ícones à direita */
+  align-items: center;
+  padding: 20px;
+  z-index: 1000;          /* Fica acima do fundo */
+}
+
+/* Div dos ícones */
+.icones {
+  display: flex;
+  gap: 10px; /* Espaço entre os ícones */
+  color: white;
+  transform: translateX(92vw);
+}
+
+/* Estilo dos ícones */
+.icones img {
+  width: 50px;
+  height: auto;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+/* Efeito hover */
+.icones img:hover {
+  transform: scale(1.1);
+}
+
+/* Container principal que envolve o conteúdo */
+.container {
+  background: rgba(255, 255, 255, 0.6); /* Fundo branco semi-transparente */
+  padding: 40px; /* Espaçamento interno */
+  border-radius: 15px; /* Bordas arredondadas */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3); /* Sombra suave */
+  width: 350px; /* Largura fixa */
+  text-align: center; /* Centraliza o texto */
+}
+
+/* Estilo do título dentro do container */
+.container h1 {
+  margin-bottom: 20px; /* Espaço abaixo */
+  color: #a00000; /* Vermelho escuro */
+}
+
+/* Estilo dos labels dos formulários */
+label {
+  display: block; /* Força quebra de linha */
+  font-size: 14px; /* Tamanho do texto */
+  margin-bottom: 5px; /* Espaço abaixo */
+  text-align: left; /* Alinha à esquerda */
+  color: #333; /* Cinza escuro */
+}
+
+/* Estilo dos inputs */
+input {
+  width: 100%; /* Largura total do container */
+  padding: 10px; /* Espaçamento interno */
+  margin-bottom: 15px; /* Espaço abaixo */
+  border: none; /* Remove borda padrão */
+  border-radius: 20px; /* Bordas arredondadas */
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.2); /* Sombra leve */
+  outline: none; /* Remove contorno ao clicar */
+}
+
+/* Estilo do botão */
+.btn {
+  width: 100%; /* Ocupa toda a largura */
+  padding: 12px; /* Altura interna */
+  border: none; /* Sem borda */
+  border-radius: 10px; /* Bordas arredondadas */
+  background-color: white; /* Fundo branco */
+  color: #a00000; /* Texto vermelho escuro */
+  font-size: 16px; /* Tamanho do texto */
+  font-weight: bold; /* Negrito */
+  cursor: pointer; /* Cursor de clique */
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.2); /* Sombra leve */
+  transition: all 0.3s ease; /* Animação suave */
+}
+
+/* Efeito ao passar o mouse sobre o botão */
+.btn:hover {
+  background-color: #a00000; /* Fundo vermelho escuro */
+  color: white; /* Texto branco */
+}
+
+/* Logo centralizado horizontalmente no topo */
+.logo {
+  position: absolute;       /* Fixa posição */
+  top: 20px;                /* Distância do topo */
+  left: 50%;                /* Joga para o meio */
+  transform: translateX(-50%); /* Centraliza certinho */
+  display: flex;
+  align-items: center;      /* Alinha imagem e texto */
+}
+
+.logo img {
+  height: 100px;
+  width: auto;
+}
+
+/*transição */
+#tvChiado {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: black;
+    pointer-events: none;
+    z-index: 9999;
+    opacity: 0;
+    transition: opacity 0.1s linear;
+    overflow: hidden;
+}
+
+/* Animação de chiado */
+@keyframes chiado {
+    0% {background-position: 0 0;}
+    100% {background-position: 100% 100%;}
+}
+
+/* Quando ativo */
+#tvChiado.ativa {
+    opacity: 1;
+    background-image: repeating-linear-gradient(
+        0deg,
+        rgba(255,255,255,0.05),
+        rgba(255,255,255,0.05) 1px,
+        rgba(0,0,0,0) 1px,
+        rgba(0,0,0,0) 2px
+    );
+    animation: chiado 0.1s infinite linear;
+}
+
+/* --- Responsividade para celular --- */
+@media (max-width: 768px) {
+    body {
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        position: relative;          /* permite posicionamento absoluto de elementos */
+        height: 600px;
+        width: 100%;
+    }
+
+    /* Logo acima do container */
+    .logo {
+        position: relative;
+        top: 10px;
+        display: flex;
+        align-items: center;
+        z-index: 1000;
+    }
+
+    .logo img {
+        height: 100px;                 /* logo menor */
+    }
+
+    /* Ícones no canto superior direito */
+    nav .icones {
+          position: absolute;       /* posiciona em relação ao body */
+          top: 10%;                  /* distância do topo da tela */
+          left: 95%;                /* posição inicial à esquerda em 90% da largura */
+          display: flex;
+          gap: 2%;                  /* espaçamento proporcional entre ícones */
+          z-index: 1000;            /* garante que fique acima de outros elementos */
+          transform: translate(-100%, 0); /* ajusta manualmente para o canto direito */
+}
+    nav ul {
+        flex-direction: column;      /* itens do menu empilhados */
+        gap: 8px;
+        width: 100%;
+        text-align: center;
+        margin-top: 80px;            /* dá espaço abaixo do logo */
+    }
+
+    .container {
+        width: 100%;                  /* container ocupa quase toda a tela */
+        padding: 20px;
+        margin-top: 100px;           /* empurra container para baixo do logo */
+    }
+
+    input {
+        width: 100%;                 /* input ocupa toda a largura */
+        padding: 6px;
+        font-size: 14px;
+    }
+
+    .btn {
+        width: 100%;
+        padding: 8px;
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 16px;
+    }
+
+    h4 {
+        font-size: 14px;
+    }
+}
