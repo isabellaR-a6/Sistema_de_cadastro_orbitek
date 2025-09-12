@@ -81,6 +81,9 @@ Clique abaixo para visualizar o protótipo navegável desenvolvido no Figma:
 ✔ Tela de Cadastro de Produtos
 ✔ Tela de Listagem de Produtos
 
+<img width="1912" height="821" alt="image" src="https://github.com/user-attachments/assets/b4f506eb-03d1-4759-9d40-9114e46f29f1" />
+
+
  Cronograma
  -
 
