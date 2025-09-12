@@ -61,6 +61,7 @@ Clique abaixo para visualizar o protótipo navegável desenvolvido no Figma:
 
 <p align="center"> <a href="https://www.figma.com" target="_blank"> <img src="https://img.shields.io/badge/Ver%20no-Figma-blue?style=for-the-badge&logo=figma&logoColor=white" alt="Ver no Figma"> </a> </p>
 
+
 <img width="625" height="547" alt="image" src="https://github.com/user-attachments/assets/563bc20c-937d-4432-9a6e-18cb1b331564" />
 
 <img width="1131" height="712" alt="image" src="https://github.com/user-attachments/assets/74390e50-95fc-4687-9e5c-497c00839c0e" />
