@@ -1,10 +1,12 @@
 União Química – Sistema de Cadastro por Orbitek
 ---
-<p align="center"> <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge" alt="Status do Projeto"> <img src="https://img.shields.io/badge/versão-1.0-blue?style=for-the-badge" alt="Versão"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> 
+<p align="center"> <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge" alt="Status do Projeto"> <img src="https://img.shields.io/badge/versão-1.0-blue?style=for-the-badge" alt="Versão"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" ![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-lightgrey?style=for-the-badge&labelColor=000000) > 
 </p>
 
+--------------
 📑 Índice
---
+----
+
 Sobre o Projeto
 
 Funcionalidades
@@ -24,7 +26,7 @@ Cronograma
 Conclusão
 
 Contatos
-
+-----------------
 🎯 Sobre o Projeto
 --
 
@@ -44,6 +46,7 @@ O projeto contempla cinco páginas principais:
 
 Nosso objetivo é melhorar a acessibilidade, usabilidade e organização dos dados, tornando o sistema mais eficiente e confiável para colaboradores e usuários.
 
+---------------
 Funcionalidades
 --
 - Login seguro com e-mail e senha
@@ -55,8 +58,10 @@ Funcionalidades
 - Cadastro de produtos com nome, descrição, preço e fornecedor
 
 - Listagem de produtos organizada, facilitando consultas
-
+- 
+-----------------
 ## 🎨 Paleta de Cores — União Química
+--------------------
 
 | Cor / Uso       | Código HEX | RGB          | CMYK              |
 |-----------------|------------|--------------|-------------------|
@@ -67,7 +72,7 @@ Funcionalidades
 | Vinho fechado   | `#731919`  | 115, 25, 25  | 0, 78, 78, 55     |
 | Vermelho intenso| `#E52B2B`  | 229, 43, 43  | 0, 81, 81, 10     |
 
---
+-----------------------------------
   Banco de Dados – MySQL Workbench
 ------------------------------------------------
 Para dar suporte às funcionalidades do sistema, foi desenvolvido um banco de dados relacional no MySQL Workbench, garantindo a persistência e a organização dos dados de administradores, fornecedores e produtos.
@@ -80,6 +85,7 @@ O modelo foi pensado para refletir diretamente as telas do sistema:
 
 -Produtos – informações detalhadas para listagem e consulta.
 
+-----------
 Considerações
 --
 -Escalabilidade: a estrutura foi pensada para permitir futuras expansões, como histórico de vendas ou relatórios.
@@ -87,14 +93,12 @@ Integridade referencial: cada produto está vinculado a um fornecedor por meio d
 
 -Segurança: senhas dos administradores devem ser armazenadas com criptografia.
 
-
-
-
-
+-----------------------------
  Tecnologias Utilizadas
  ---
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/FontAwesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome"> <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp"> </p>
 
+----------------
 Protótipo no Figma
 ------------
 Clique abaixo para visualizar o protótipo navegável desenvolvido no Figma:
@@ -126,13 +130,13 @@ Login Computador
 
 <img width="1912" height="821" alt="image" src="https://github.com/user-attachments/assets/b4f506eb-03d1-4759-9d40-9114e46f29f1" />
 
-
+-------------
  Cronograma
  -
 
 Organização e acompanhamento das tarefas realizados pelo time Orbitek através da plataforma ClickUp, permitindo melhor controle de prazos e entregas.
 
-
+---------------
 ## 👥 Equipe
 --------------------
 | Nome                              | Função        | Contato |
@@ -144,7 +148,7 @@ Organização e acompanhamento das tarefas realizados pelo time Orbitek através
 | Breno José de Oliveira            | Desenvolvedor  | [breno.emailsenai@aluno.senai.br](mailto:breno.emailsenai@aluno.senai.br) |
 | Enzo Avanze                       | Desenvolvedor  | [enzavanze@aluno.senai.br](mailto:enzavanze@aluno.senai.br) |
 
-
+-----------
 🏆 Conclusão
 -
 
