@@ -59,10 +59,10 @@ Funcionalidades
 - Cadastro de produtos com nome, descrição, preço e fornecedor
 
 - Listagem de produtos organizada, facilitando consultas
-- 
+  
 -----------------
 ## 🎨 Paleta de Cores — União Química
---------------------
+
 
 | Cor / Uso       | Código HEX | RGB          | CMYK              |
 |-----------------|------------|--------------|-------------------|
@@ -110,13 +110,13 @@ Clique abaixo para visualizar o protótipo navegável desenvolvido no Figma:
 
 Login Celular
 ---------------
-<img width="625" height="547" alt="image" src="https://github.com/user-attachments/assets/563bc20c-937d-4432-9a6e-18cb1b331564" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/563bc20c-937d-4432-9a6e-18cb1b331564" />
 
 -----------------
 Login Computador
 ------------------------
 
-<img width="1131" height="712" alt="image" src="https://github.com/user-attachments/assets/74390e50-95fc-4687-9e5c-497c00839c0e" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/74390e50-95fc-4687-9e5c-497c00839c0e" />
 
 
 
