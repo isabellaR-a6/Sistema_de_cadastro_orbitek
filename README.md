@@ -55,6 +55,17 @@ Funcionalidades
 
 - Listagem de produtos organizada, facilitando consultas
 
+## 🎨 Paleta de Cores — União Química
+
+| Nome / Uso        | Código HEX | Pré-visualização |
+|-------------------|------------|------------------|
+| Azul escuro       | `#002159`  | ![#002159](https://via.placeholder.com/20/002159/FFFFFF?text=+) |
+| Roxo profundo     | `#070029`  | ![#070029](https://via.placeholder.com/20/070029/FFFFFF?text=+) |
+| Azul destaque     | `#0057FF`  | ![#0057FF](https://via.placeholder.com/20/0057FF/FFFFFF?text=+) |
+| Vinho escuro      | `#851F1C`  | ![#851F1C](https://via.placeholder.com/20/851F1C/FFFFFF?text=+) |
+| Vinho fechado     | `#731919`  | ![#731919](https://via.placeholder.com/20/731919/FFFFFF?text=+) |
+| Vermelho intenso  | `#E52B2B`  | ![#E52B2B](https://via.placeholder.com/20/E52B2B/FFFFFF?text=+) |
+
 --
   Banco de Dados – MySQL Workbench
 ------------------------------------------------
