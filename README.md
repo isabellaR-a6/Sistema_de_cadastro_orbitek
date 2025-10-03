@@ -62,14 +62,17 @@ Clique abaixo para visualizar o protótipo navegável desenvolvido no Figma:
 <p align="center"> <a href="https://www.figma.com" target="_blank"> <img src="https://img.shields.io/badge/Ver%20no-Figma-blue?style=for-the-badge&logo=figma&logoColor=white" alt="Ver no Figma"> </a> </p>
 
 
+
+Login Celular
+---------------
 <img width="625" height="547" alt="image" src="https://github.com/user-attachments/assets/563bc20c-937d-4432-9a6e-18cb1b331564" />
 
-
--Login Celular
-
+-----------------
+Login Computador
+------------------------
 
 <img width="1131" height="712" alt="image" src="https://github.com/user-attachments/assets/74390e50-95fc-4687-9e5c-497c00839c0e" />
--Login Computador
+
 
 
  Escopo
@@ -88,6 +91,19 @@ Clique abaixo para visualizar o protótipo navegável desenvolvido no Figma:
  -
 
 Organização e acompanhamento das tarefas realizados pelo time Orbitek através da plataforma ClickUp, permitindo melhor controle de prazos e entregas.
+
+
+## 👥 Equipe
+--------------------
+| Nome                              | Função        | Contato |
+|-----------------------------------|--------------|---------|
+| Rafaela Cristina Araujo Oliveira  | Desenvolvedora | [rafaela.c.oliveira8@aluno.senai.br](mailto:rafaela.c.oliveira8@aluno.senai.br) |
+| Isabella Radael                   | Scrum Master   | [isabella.radael@aluno.senai.br](mailto:isabella.radael@aluno.senai.br) |
+| Nicolas Fernandes Santos          | Desenvolvedor  | [fernandesnicolas656@agmail.com](mailto: fernandesnicolas656@agmail.com)|
+| João Pedro Tomazini               | Desenvolvedor  | [joao.p.rodrigues48@aluno.senai.br  ](mailto:joao.p.rodrigues@aluno.senai.br) |
+| Breno José de Oliveira            | Desenvolvedor  | [breno.emailsenai@aluno.senai.br](mailto:breno.emailsenai@aluno.senai.br) |
+| Enzo Avanze                       | Desenvolvedor  | [enzavanze@aluno.senai.br](mailto:enzavanze@aluno.senai.br) |
+
 
 🏆 Conclusão
 -
