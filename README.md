@@ -8,6 +8,10 @@ Sobre o Projeto
 
 Funcionalidades
 
+Banco De Dados
+
+Considerações
+
 Tecnologias Utilizadas
 
 Protótipo no Figma
@@ -50,6 +54,30 @@ Funcionalidades
 - Cadastro de produtos com nome, descrição, preço e fornecedor
 
 - Listagem de produtos organizada, facilitando consultas
+
+--
+  Banco de Dados – MySQL Workbench
+------------------------------------------------
+Para dar suporte às funcionalidades do sistema, foi desenvolvido um banco de dados relacional no MySQL Workbench, garantindo a persistência e a organização dos dados de administradores, fornecedores e produtos.
+
+O modelo foi pensado para refletir diretamente as telas do sistema:
+
+-Usuários/Administradores – controle de acesso ao sistema.
+
+-Fornecedores – cadastro de parceiros e contatos.
+
+-Produtos – informações detalhadas para listagem e consulta.
+
+Considerações
+--
+-Escalabilidade: a estrutura foi pensada para permitir futuras expansões, como histórico de vendas ou relatórios.
+Integridade referencial: cada produto está vinculado a um fornecedor por meio de chave estrangeira.
+
+-Segurança: senhas dos administradores devem ser armazenadas com criptografia.
+
+
+
+
 
  Tecnologias Utilizadas
  ---
@@ -108,5 +136,5 @@ Organização e acompanhamento das tarefas realizados pelo time Orbitek através
 🏆 Conclusão
 -
 
-Este projeto representa uma etapa essencial para a modernização dos processos internos da União Química, unindo design funcional, tecnologia de ponta e usabilidade.
-Com a proposta desenvolvida, espera-se maior eficiência na gestão de cadastros, alinhando a empresa às tendências digitais atuais.
+Este projeto representa uma etapa essencial para a modernização dos processos internos da União Química, unindo design funcional, tecnologia de ponta, usabilidade e uma estrutura de banco de dados robusta no MySQL Workbench.
+Com a proposta desenvolvida, espera-se maior eficiência na gestão de cadastros, garantindo organização, segurança e confiabilidade das informações, além de alinhar a empresa às tendências digitais atuais.
