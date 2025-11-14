@@ -137,8 +137,14 @@ O modelo foi pensado para refletir diretamente as telas do sistema:
 -Produtos – informações detalhadas para listagem e consulta.
 
 
- Cronograma
- -
+Modelo Conceitual
+-
+<img width="300" height="300" alt="Modelo conceitual" src="https://github.com/user-attachments/assets/ab7b945a-3965-4fb9-883b-dd8bf240f2e2" />
+
+-Nosso modelo conceitual Do Banco de Dados
+ 
+Cronograma
+----
 
 Organização e acompanhamento das tarefas realizados pelo time Orbitek através da plataforma ClickUp, permitindo melhor controle de prazos e entregas.
 
