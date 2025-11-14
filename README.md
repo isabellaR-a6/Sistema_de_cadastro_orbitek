@@ -156,10 +156,10 @@ Organização e acompanhamento das tarefas realizados pelo time Orbitek através
 |-----------------------------------|--------------|---------|
 | Rafaela Cristina Araujo Oliveira  | Desenvolvedora | [rafaela.c.oliveira8@aluno.senai.br](mailto:rafaela.c.oliveira8@aluno.senai.br) |
 | Isabella Radael                   | Scrum Master   | [isabella.radael@aluno.senai.br](mailto:isabella.radael@aluno.senai.br) |
-| Nicolas Fernandes Santos          | Desenvolvedor  | [fernandesnicolas656@agmail.com](mailto:fernandesnicolas656@agmail.com)|
+| Nicolas Fernandes Santos          | Desenvolvedor  | [fernandesnicolas656@agmail.com](mailto:fernandesnicolas656@gmail.com)|
 | João Pedro Tomazini               | Desenvolvedor  | [joao.p.rodrigues48@aluno.senai.br  ](mailto:joao.p.rodrigues@aluno.senai.br) |
 | Breno José de Oliveira            | Desenvolvedor  | [breno.emailsenai@aluno.senai.br](mailto:breno.emailsenai@aluno.senai.br) |
-| Enzo Avanze                       | Desenvolvedor  | [enzavanze@aluno.senai.br](mailto:enzavanze@aluno.senai.br) |
+| Enzo Avanze                       | Desenvolvedor  | [enzo.avanze@aluno.senai.br](mailto:enzo.avanze@aluno.senai.br) |
 
 -----------
 🏆 Conclusão
