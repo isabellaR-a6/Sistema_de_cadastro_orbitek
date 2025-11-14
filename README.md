@@ -9,9 +9,9 @@ União Química – Sistema de Cadastro por Orbitek
 
 Sobre o Projeto
 
-Funcionalidades
+SPRINT 1-------------
 
-Banco De Dados
+Funcionalidades
 
 Considerações
 
@@ -19,9 +19,13 @@ Tecnologias Utilizadas
 
 Protótipo no Figma
 
+Cronograma
+
 Escopo
 
-Cronograma
+SPRINT 2-------------
+
+Banco De Dados
 
 Conclusão
 
