@@ -7,8 +7,6 @@
 📑 Índice
 ----
 
-Sobre o Projeto
-
 SPRINT 1-------------
 
 Funcionalidades
@@ -32,7 +30,7 @@ Conclusão
 Contatos
 
 -----------------
-SPRINT 1
+# SPRINT 1
 --
 
 A União Química, empresa de destaque no setor farmacêutico, solicitou à Orbitek o desenvolvimento de um sistema digital para otimizar seus processos internos.
@@ -77,18 +75,6 @@ Funcionalidades
 | Vinho fechado   | `#731919`  | 115, 25, 25  | 0, 78, 78, 55     |
 | Vermelho intenso| `#E52B2B`  | 229, 43, 43  | 0, 81, 81, 10     |
 
------------------------------------
-  Banco de Dados – MySQL Workbench
-------------------------------------------------
-Para dar suporte às funcionalidades do sistema, foi desenvolvido um banco de dados relacional no MySQL Workbench, garantindo a persistência e a organização dos dados de administradores, fornecedores e produtos.
-
-O modelo foi pensado para refletir diretamente as telas do sistema:
-
--Usuários/Administradores – controle de acesso ao sistema.
-
--Fornecedores – cadastro de parceiros e contatos.
-
--Produtos – informações detalhadas para listagem e consulta.
 
 -----------
 Considerações
@@ -136,6 +122,22 @@ Login Computador
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b4f506eb-03d1-4759-9d40-9114e46f29f1" />
 
 -------------
+
+# Sprint 2
+-----------------------------------
+  Banco de Dados – MySQL Workbench
+------------------------------------------------
+Para dar suporte às funcionalidades do sistema, foi desenvolvido um banco de dados relacional no MySQL Workbench, garantindo a persistência e a organização dos dados de administradores, fornecedores e produtos.
+
+O modelo foi pensado para refletir diretamente as telas do sistema:
+
+-Usuários/Administradores – controle de acesso ao sistema.
+
+-Fornecedores – cadastro de parceiros e contatos.
+
+-Produtos – informações detalhadas para listagem e consulta.
+
+
  Cronograma
  -
 
