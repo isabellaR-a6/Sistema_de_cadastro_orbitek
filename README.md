@@ -31,7 +31,6 @@ Contatos
 
 -----------------
 # SPRINT 1
---
 
 A União Química, empresa de destaque no setor farmacêutico, solicitou à Orbitek o desenvolvimento de um sistema digital para otimizar seus processos internos.
 
