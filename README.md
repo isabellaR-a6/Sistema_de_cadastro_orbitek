@@ -139,7 +139,8 @@ O modelo foi pensado para refletir diretamente as telas do sistema:
 
 Modelo Conceitual
 -
-<img width="300" height="300" alt="Modelo conceitual" src="https://github.com/user-attachments/assets/ab7b945a-3965-4fb9-883b-dd8bf240f2e2" />
+
+img
 
 -Nosso modelo conceitual Do Banco de Dados
  
