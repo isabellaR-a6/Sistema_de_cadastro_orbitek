@@ -223,6 +223,6 @@ IMG
 🏆 Conclusão
 -
 
-O projeto "União Química – Sistema de Cadastro por Orbitek" foi concluído com sucesso, atendendo todos os objetivos propostos nas três sprints: desenvolvimento de interfaces responsivas, modelagem robusta de banco de dados MySQL e implementação de operações CRUD via PHP.​
+O projeto União Química foi concluído com sucesso, atendendo todos os objetivos propostos nas três sprints: desenvolvimento de interfaces responsivas, modelagem robusta de banco de dados MySQL e implementação de operações CRUD via PHP.​
 A integração de tecnologias como HTML5, CSS3, Figma e ClickUp resultou em um sistema escalável, seguro e user-friendly, otimizando cadastros de administradores, fornecedores e produtos para maior eficiência operacional da União Química.​​
 Futuramente, expansões como relatórios analíticos e integração mobile podem elevar ainda mais o impacto, consolidando a Orbitek como parceira estratégica em soluções digitais farmacêuticas.
