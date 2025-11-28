@@ -149,6 +149,7 @@ Cronograma
 
 Organização e acompanhamento das tarefas realizados pelo time Orbitek através da plataforma ClickUp, permitindo melhor controle de prazos e entregas.
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/29ea3a77-66b9-40f5-83bf-b593cbadc173" />
 
 *Img do Cronograma*
 
