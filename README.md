@@ -211,10 +211,31 @@ CRUD é um conjunto de operações básicas realizadas em bancos de dados: Criar
 
 Novo visual
 -
-IMG
+
+*Tela Inicial*
+
+<img width="400" height="400" alt="Captura de tela 2025-11-28 150602" src="https://github.com/user-attachments/assets/a4555248-d383-40d6-a1c5-7a43c7cdb561" />
 
 
-## 👥 Equipe
+*Tela de Bem Vindo*
+
+<img width="400" height="400" alt="Captura de tela 2025-11-28 151229" src="https://github.com/user-attachments/assets/e2c0c8de-00b0-426c-a9a5-f7217db3e1aa" />
+
+
+*Tela de Cadastro de Fornecedor*
+
+<img width="400" height="400" alt="Captura de tela 2025-11-28 151730" src="https://github.com/user-attachments/assets/b8ea6638-2226-4c1b-b3e0-a69088afcdaa" />
+
+*Tela de Cadastro de Produtos*
+
+<img width="400" height="400" alt="Captura de tela 2025-11-28 152035" src="https://github.com/user-attachments/assets/c154ef52-a29c-4341-8f66-dd40999ea1ee" />
+
+*Tela De listagem de Produtos*
+
+<img width="400" height="400" alt="Captura de tela 2025-11-28 152220" src="https://github.com/user-attachments/assets/8dd2407e-785a-4d5d-b893-108f3403cbe3" />
+
+-------------
+## 👥Equipe
 
 --------------------
 | Nome                              | Função        | Contato |
