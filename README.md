@@ -131,6 +131,9 @@ Login Computador
 -------------
 
 # SPRINT 2
+
+A Sprint 2 tem como foco a modelagem dos dados do sistema, que envolve quatro etapas fundamentais: o dicionário de dados, o modelo conceitual, o modelo lógico e o modelo físico
+
 -----------------------------------
   Banco de Dados – MySQL Workbench
 ------------------------------------------------
@@ -189,6 +192,10 @@ Organização e acompanhamento das tarefas realizados pelo time Orbitek através
 
 ---------------
 # SPRINT 3
+
+
+A Sprint 3 terá como objetivo principal integrar o PHP ao banco de dados desenvolvido na Sprint 2, estabelecendo a conexão entre o site e a base de dados. Essa etapa é essencial para possibilitar a manipulação dinâmica das informações pelo usuário
+
 --------
 PHP
 -
