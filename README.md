@@ -235,6 +235,11 @@ Novo visual
 <img width="400" height="400" alt="Captura de tela 2025-11-28 152220" src="https://github.com/user-attachments/assets/8dd2407e-785a-4d5d-b893-108f3403cbe3" />
 
 -------------
+------
+# SLIDES
+https://www.canva.com/design/DAG4mZVS4pU/XN1jLNCVtYUAenxH1TG5iw/edit?utm_content=DAG4mZVS4pU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+----------
 ## 👥Equipe
 
 --------------------
