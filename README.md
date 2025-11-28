@@ -141,7 +141,6 @@ Modelo Conceitual
 -
 
 <img width="400" height="400" alt="Modelo conceitual" src="https://github.com/user-attachments/assets/3b7cbfb5-3a7e-4c8e-baf2-a914b2f25f34" />
-
 *Nosso modelo conceitual Do Banco de Dados*
  
 Cronograma
@@ -150,7 +149,6 @@ Cronograma
 Organização e acompanhamento das tarefas realizados pelo time Orbitek através da plataforma ClickUp, permitindo melhor controle de prazos e entregas.
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/29ea3a77-66b9-40f5-83bf-b593cbadc173" />
-
 *Img do Cronograma*
 
 ---------------
