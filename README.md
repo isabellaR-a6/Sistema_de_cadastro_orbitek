@@ -140,10 +140,25 @@ O modelo foi pensado para refletir diretamente as telas do sistema:
 Modelo Conceitual
 -
 
+O modelo conceitual de banco de dados é uma representação abstrata e de alto nível dos dados de um negócio, focada em entidades, atributos e relacionamentos, sem detalhes técnicos de implementação.​
+
+Ele usa ferramentas como o Diagrama Entidade-Relacionamento (DER) para traduzir requisitos em visuais claros, facilitando a comunicação entre equipes e servindo de base para modelos lógico e físico
+
 <img width="400" height="400" alt="Modelo conceitual" src="https://github.com/user-attachments/assets/3b7cbfb5-3a7e-4c8e-baf2-a914b2f25f34" />
 
 *Nosso modelo conceitual Do Banco de Dados*
- 
+
+Modelo Lógico 
+ -
+ O modelo lógico de banco de dados é uma representação detalhada e independente de SGBD específico, derivada do modelo conceitual, que converte entidades em tabelas, atributos em colunas com tipos de dados e relacionamentos em chaves primárias e estrangeiras.​
+
+Ele incorpora restrições de integridade, regras de negócio e normalização para garantir consistência e eficiência, facilitando a transição para a implementação física
+
+
+<img width="922" height="707" alt="Modelo Lógico (2)" src="https://github.com/user-attachments/assets/e3da43f1-bda8-431a-bf6c-9f9b6b0a2c1a" />
+
+*Nosso modelo Lógico de Banco de dados
+
 Cronograma
 ----
 
