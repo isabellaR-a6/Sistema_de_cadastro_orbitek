@@ -157,7 +157,7 @@ Ele incorpora restrições de integridade, regras de negócio e normalização p
 
 <img width="400" height="400" alt="Modelo Lógico (2)" src="https://github.com/user-attachments/assets/e3da43f1-bda8-431a-bf6c-9f9b6b0a2c1a" />
 
-*Nosso modelo Lógico de Banco de dados
+*Nosso modelo Lógico de Banco de dados*
 
 Modelo Físico
 -
