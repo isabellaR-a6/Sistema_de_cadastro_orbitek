@@ -130,7 +130,7 @@ Login Computador
 
 -------------
 
-# Sprint 2
+# SPRINT 2
 -----------------------------------
   Banco de Dados – MySQL Workbench
 ------------------------------------------------
@@ -188,10 +188,23 @@ Organização e acompanhamento das tarefas realizados pelo time Orbitek através
 *Img do Cronograma*
 
 ---------------
+# SPRINT 3
+--------
+PHP
+-
+No âmbito do projeto da Orbitek, o PHP é empregado para integrar os modelos de dados — conceitual, lógico e físico — à interface web, possibilitando o desenvolvimento de aplicações dinâmicas que acessam e manipulam bancos de dados de maneira eficiente e escalável.​
 
+PHP é uma linguagem de programação usada para criar sites dinâmicos, que interagem com usuários e bancos de dados. Ela é executada no servidor e permite desenvolver sistemas web de forma simples e eficiente.
 
+CRUD
+-
+No âmbito do projeto da Orbitek, as operações CRUD são aplicadas para gerenciar eficientemente os dados nos modelos de banco de dados desenvolvidos, garantindo a manipulação completa de informações em aplicações web.​
 
+CRUD é um conjunto de operações básicas realizadas em bancos de dados: Criar, Ler, Atualizar e Excluir dados. Essas funcionalidades facilitam o gerenciamento de informações em aplicações web.
 
+Novo visual
+-
+IMG
 
 
 ## 👥 Equipe
