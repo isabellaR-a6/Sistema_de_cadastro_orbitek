@@ -239,6 +239,11 @@ Novo visual
 https://www.canva.com/design/DAG4mZVS4pU/XN1jLNCVtYUAenxH1TG5iw/edit?utm_content=DAG4mZVS4pU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ----------
+# LINK PARA BAIXAR OS ARQUIVOS DO SITE
+
+[![Download via Mega](https://img.shields.io/badge/Download-Mega-blue?logo=mega&logoColor=white)](https://mega.nz/file/0Q1wXJhD#4FRIDVNt4tmCqhPOBjyEG9ziAPO8MJwHBDXRyRR3Xck)
+
+-----------
 ## 👥Equipe
 
 --------------------
