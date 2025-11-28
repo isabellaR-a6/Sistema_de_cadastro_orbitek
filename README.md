@@ -101,9 +101,8 @@ Protótipo no Figma
 ------------
 Clique abaixo para visualizar o protótipo navegável desenvolvido no Figma:
 
-[![Abrir no Figma](https://img.shields.io/badge/Abrir%20no-Figma-blue?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/doVTR5TXBWYr4E925qfJR3/Uni%C3%A3o-Qu%C3%ADmica-Computador?m=auto&t=JeAuAm3l8RCBKufJ-6)
-
-[![Abrir no Figma](https://img.shields.io/badge/Abrir%20no-Figma-blue?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/O6odfKCL3yU981xKwgcp8p/Uni%C3%A3o-Qu%C3%ADmica--Celular?m=auto&t=JeAuAm3l8RCBKufJ-6)
+[![Abrir versão Computador](https://img.shields.io/badge/Figma-Computador-blue?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/doVTR5TXBWYr4E925qfJR3/Uni%C3%A3o-Qu%C3%ADmica-Computador?m=auto&t=JeAuAm3l8RCBKufJ-6)
+[![Abrir versão Celular](https://img.shields.io/badge/Figma-Celular-blue?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/O6odfKCL3yU981xKwgcp8p/Uni%C3%A3o-Qu%C3%ADmica--Celular?m=auto&t=JeAuAm3l8RCBKufJ-6)
 
 
 Login Celular
