@@ -236,7 +236,8 @@ Novo visual
 
 ------
 # SLIDES
-https://www.canva.com/design/DAG4mZVS4pU/XN1jLNCVtYUAenxH1TG5iw/edit?utm_content=DAG4mZVS4pU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+[![Abrir no Canva](https://img.shields.io/badge/Abrir%20no-Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG4mZVS4pU/XN1jLNCVtYUAenxH1TG5iw/edit?utm_content=DAG4mZVS4pU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ----------
 # LINK PARA BAIXAR OS ARQUIVOS DO SITE
