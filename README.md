@@ -140,23 +140,27 @@ O modelo foi pensado para refletir diretamente as telas do sistema:
 Modelo Conceitual
 -
 
-img
+<img width="400" height="400" alt="Modelo conceitual" src="https://github.com/user-attachments/assets/3b7cbfb5-3a7e-4c8e-baf2-a914b2f25f34" />
 
--Nosso modelo conceitual Do Banco de Dados
+*Nosso modelo conceitual Do Banco de Dados*
  
 Cronograma
 ----
 
 Organização e acompanhamento das tarefas realizados pelo time Orbitek através da plataforma ClickUp, permitindo melhor controle de prazos e entregas.
 
+
+*Img do Cronograma*
+
 ---------------
 ## 👥 Equipe
+
 --------------------
 | Nome                              | Função        | Contato |
 |-----------------------------------|--------------|---------|
 | Rafaela Cristina Araujo Oliveira  | Desenvolvedora | [rafaela.c.oliveira8@aluno.senai.br](mailto:rafaela.c.oliveira8@aluno.senai.br) |
 | Isabella Radael                   | Scrum Master   | [isabella.radael@aluno.senai.br](mailto:isabella.radael@aluno.senai.br) |
-| Nicolas Fernandes Santos          | Desenvolvedor  | [fernandesnicolas656@agmail.com](mailto:fernandesnicolas656@gmail.com)|
+| Nicolas Fernandes Santos          | Desenvolvedor  | [fernandesnicolas656@gmail.com](mailto:fernandesnicolas656@gmail.com)|
 | João Pedro Tomazini               | Desenvolvedor  | [joao.p.rodrigues48@aluno.senai.br  ](mailto:joao.p.rodrigues@aluno.senai.br) |
 | Breno José de Oliveira            | Desenvolvedor  | [breno.emailsenai@aluno.senai.br](mailto:breno.emailsenai@aluno.senai.br) |
 | Enzo Avanze                       | Desenvolvedor  | [enzo.avanze@aluno.senai.br](mailto:enzo.avanze@aluno.senai.br) |
