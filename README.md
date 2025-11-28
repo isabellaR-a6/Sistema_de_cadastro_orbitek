@@ -159,6 +159,19 @@ Ele incorpora restrições de integridade, regras de negócio e normalização p
 
 *Nosso modelo Lógico de Banco de dados
 
+Modelo Físico
+-
+O modelo físico de banco de dados é a representação final e dependente do SGBD específico, derivada do modelo lógico, que detalha a implementação real com tabelas, colunas, tipos de dados nativos, índices, restrições, views e procedimentos armazenados.​
+
+Ele considera otimizações de desempenho, como particionamento de tabelas, armazenamento físico e convenções de nomenclatura do banco escolhido (ex.: MySQL, Oracle), permitindo a criação direta do esquema no sistema
+
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/dfa43728-104a-458f-804c-85c209941baa" />
+
+*Nosso modelo Físico de Banco de dados*
+
+
+
 Cronograma
 ----
 
