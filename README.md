@@ -3,9 +3,17 @@
 <p align="center"> <img src="https://img.shields.io/badge/status-%20Finalizado-red?style=for-the-badge" alt="Status do Projeto"> <img src="https://img.shields.io/badge/versão-1.0-blue?style=for-the-badge" alt="Versão"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"  > 
 </p>
 
-# SLIDES
+<div align="center">
 
-[![Abrir no Canva](https://img.shields.io/badge/Abrir%20no-Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG4mZVS4pU/XN1jLNCVtYUAenxH1TG5iw/edit?utm_content=DAG4mZVS4pU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  <a href="https://orbe.infinityfree.me/index.php">
+    <img src="https://img.shields.io/badge/Acessar%20Orbe-0000FF?style=for-the-badge" alt="Acessar Orbe">
+  </a>
+
+  <a href="https://www.canva.com/design/DAG4mZVS4pU/XN1jLNCVtYUAenxH1TG5iw/edit?utm_content=DAG4mZVS4pU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+    <img src="https://img.shields.io/badge/Abrir%20no-Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white" alt="Abrir no Canva">
+  </a>
+
+</div>
 
 
 --------------
