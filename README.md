@@ -18,7 +18,7 @@
   </a>
   
 --------------
-# *Índice**
+#  **ÍNDICE**
 
 <div align="center">
 
