@@ -6,7 +6,7 @@
 <div align="center">
 
   <a href="https://orbe.infinityfree.me/index.php">
-    <img src="https://img.shields.io/badge/Acessar%20Orbe-0000FF?style=for-the-badge" alt="Acessar Orbe">
+    <img src="https://img.shields.io/badge/Acessar%20Site-550000?style=for-the-badge" alt="Acessar Site">
   </a>
 
   <a href="https://www.canva.com/design/DAG4mZVS4pU/XN1jLNCVtYUAenxH1TG5iw/edit?utm_content=DAG4mZVS4pU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
