@@ -20,56 +20,56 @@
 --------------
 # Índice
 
-
 <div align="center">
 
-## 🟦 **SPRINT 1**
+## <span style="color:#0056B2;">&#11044;</span> **SPRINT 1**
 <a href="#funcionalidades">
-  <img src="https://img.shields.io/badge/Funcionalidades-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Funcionalidades-0056B2?style=for-the-badge&logo=tasklist&logoColor=white" />
 </a>
 <a href="#considerações">
-  <img src="https://img.shields.io/badge/Considerações-4169E1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Considerações-007BFF?style=for-the-badge&logo=comment-discussion&logoColor=white" />
 </a>
 <a href="#tecnologias-utilizadas">
-  <img src="https://img.shields.io/badge/Tecnologias_Utilizadas-00008B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tecnologias_Utilizadas-4CA2FE?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 <a href="#protótipo-no-figma">
-  <img src="https://img.shields.io/badge/Protótipo_no_Figma-8A2BE2?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Protótipo_no_Figma-0056B2?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
 <a href="#cronograma">
-  <img src="https://img.shields.io/badge/Cronograma-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cronograma-007BFF?style=for-the-badge&logo=clock&logoColor=white" />
 </a>
 <a href="#escopo">
-  <img src="https://img.shields.io/badge/Escopo-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Escopo-4CA2FE?style=for-the-badge&logo=scope&logoColor=white" />
 </a>
 
 ---
 
-## 🟩 **SPRINT 2**
+## <span style="color:#530000;">&#11044;</span> **SPRINT 2**
 <a href="#banco-de-dados">
-  <img src="https://img.shields.io/badge/Banco_de_Dados-2E8B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Banco_de_Dados-530000?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>
 
 ---
 
-## 🟧 **SPRINT 3**
+## <span style="color:#A00000;">&#11044;</span> **SPRINT 3**
 <a href="#php">
-  <img src="https://img.shields.io/badge/PHP-9370DB?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-A00000?style=for-the-badge&logo=php&logoColor=white" />
 </a>
 <a href="#crud">
-  <img src="https://img.shields.io/badge/CRUD-BA55D3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CRUD-EC0000?style=for-the-badge&logo=database&logoColor=white" />
 </a>
 <a href="#novo-visual">
-  <img src="https://img.shields.io/badge/Novo_Visual-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Novo_Visual-530000?style=for-the-badge&logo=paintbrush&logoColor=white" />
 </a>
 <a href="#conclusão">
-  <img src="https://img.shields.io/badge/Conclusão-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Conclusão-A00000?style=for-the-badge&logo=check-circle&logoColor=white" />
 </a>
 <a href="#contatos">
-  <img src="https://img.shields.io/badge/Contatos-DC143C?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contatos-EC0000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
+
 
 
 -----------------
