@@ -19,37 +19,57 @@
   
 --------------
 📑 Índice
-----
 
-SPRINT 1-------------
+<div align="center">
 
-Funcionalidades
+## 🟦 **SPRINT 1**
+<a href="#funcionalidades">
+  <img src="https://img.shields.io/badge/Funcionalidades-1E90FF?style=for-the-badge" />
+</a>
+<a href="#considerações">
+  <img src="https://img.shields.io/badge/Considerações-4169E1?style=for-the-badge" />
+</a>
+<a href="#tecnologias-utilizadas">
+  <img src="https://img.shields.io/badge/Tecnologias_Utilizadas-00008B?style=for-the-badge" />
+</a>
+<a href="#protótipo-no-figma">
+  <img src="https://img.shields.io/badge/Protótipo_no_Figma-8A2BE2?style=for-the-badge&logo=figma" />
+</a>
+<a href="#cronograma">
+  <img src="https://img.shields.io/badge/Cronograma-4B0082?style=for-the-badge" />
+</a>
+<a href="#escopo">
+  <img src="https://img.shields.io/badge/Escopo-6A5ACD?style=for-the-badge" />
+</a>
 
-Considerações
+---
 
-Tecnologias Utilizadas
+## 🟩 **SPRINT 2**
+<a href="#banco-de-dados">
+  <img src="https://img.shields.io/badge/Banco_de_Dados-2E8B57?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
 
-Protótipo no Figma
+---
 
-Cronograma
+## 🟧 **SPRINT 3**
+<a href="#php">
+  <img src="https://img.shields.io/badge/PHP-9370DB?style=for-the-badge&logo=php&logoColor=white" />
+</a>
+<a href="#crud">
+  <img src="https://img.shields.io/badge/CRUD-BA55D3?style=for-the-badge" />
+</a>
+<a href="#novo-visual">
+  <img src="https://img.shields.io/badge/Novo_Visual-FF8C00?style=for-the-badge" />
+</a>
+<a href="#conclusão">
+  <img src="https://img.shields.io/badge/Conclusão-FF4500?style=for-the-badge" />
+</a>
+<a href="#contatos">
+  <img src="https://img.shields.io/badge/Contatos-DC143C?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-Escopo
+</div>
 
-SPRINT 2-------------
-
-Banco De Dados
-
-SPRINT 3------------ 
-
-PHP
-
-CRUD 
-
-Novo Visual
-
-Conclusão
-
-Contatos
 
 -----------------
 # SPRINT 1
