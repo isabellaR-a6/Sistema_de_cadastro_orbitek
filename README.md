@@ -3,6 +3,11 @@
 <p align="center"> <img src="https://img.shields.io/badge/status-%20Finalizado-red?style=for-the-badge" alt="Status do Projeto"> <img src="https://img.shields.io/badge/versão-1.0-blue?style=for-the-badge" alt="Versão"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"  > 
 </p>
 
+# SLIDES
+
+[![Abrir no Canva](https://img.shields.io/badge/Abrir%20no-Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG4mZVS4pU/XN1jLNCVtYUAenxH1TG5iw/edit?utm_content=DAG4mZVS4pU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
 --------------
 📑 Índice
 ----
@@ -234,15 +239,6 @@ Novo visual
 
 <img width="400" height="400" alt="Captura de tela 2025-11-28 152220" src="https://github.com/user-attachments/assets/8dd2407e-785a-4d5d-b893-108f3403cbe3" />
 
-------
-# SLIDES
-
-[![Abrir no Canva](https://img.shields.io/badge/Abrir%20no-Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG4mZVS4pU/XN1jLNCVtYUAenxH1TG5iw/edit?utm_content=DAG4mZVS4pU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-----------
-# LINK PARA BAIXAR OS ARQUIVOS DO SITE
-
-[![Download via Mega](https://img.shields.io/badge/Download-Mega-blue?logo=mega&logoColor=white)](https://mega.nz/file/0Q1wXJhD#4FRIDVNt4tmCqhPOBjyEG9ziAPO8MJwHBDXRyRR3Xck)
 
 -----------
 ## 👥Equipe
