@@ -271,7 +271,7 @@ Novo visual
 
 
 -----------
-## 👥Equipe
+## 👥Contatos
 
 --------------------
 | Nome                              | Função        | Contato |
