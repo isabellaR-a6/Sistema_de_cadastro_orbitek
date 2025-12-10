@@ -35,9 +35,6 @@
 <a href="#protótipo-no-figma">
   <img src="https://img.shields.io/badge/Protótipo_no_Figma-0056B2?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
-<a href="#cronograma">
-  <img src="https://img.shields.io/badge/Cronograma-007BFF?style=for-the-badge&logo=clock&logoColor=white" />
-</a>
 <a href="#escopo">
   <img src="https://img.shields.io/badge/Escopo-4CA2FE?style=for-the-badge&logo=scope&logoColor=white" />
 </a>
@@ -45,23 +42,20 @@
 ---
 
 ## 🟩 **SPRINT 2**
-<a href="#banco-de-dados">
-  <img src="https://img.shields.io/badge/Banco_de_Dados-530000?style=for-the-badge&logo=mysql&logoColor=white" />
-</a>
 <a href="#mysql-workbench">
-  <img src="https://img.shields.io/badge/MySQL_Workbench-530000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL_Workbench-A00000?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>
 <a href="#modelo-conceitual">
-  <img src="https://img.shields.io/badge/Modelo_Conceitual-530000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modelo_Conceitual-EC0000?style=for-the-badge" />
 </a>
 <a href="#modelo-lógico">
   <img src="https://img.shields.io/badge/Modelo_Lógico-530000?style=for-the-badge" />
 </a>
 <a href="#modelo-físico">
-  <img src="https://img.shields.io/badge/Modelo_Físico-530000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modelo_Físico-A00000?style=for-the-badge" />
 </a>
-<a href="#cronograma-sprint2">
-  <img src="https://img.shields.io/badge/Cronograma-530000?style=for-the-badge&logo=clock&logoColor=white" />
+<a href="#cronograma">
+  <img src="https://img.shields.io/badge/Cronograma-EC0000?style=for-the-badge&logo=clock&logoColor=white" />
 </a>
 
 ---
@@ -185,7 +179,7 @@ Login Computador
 A Sprint 2 tem como foco a modelagem dos dados do sistema, que envolve quatro etapas fundamentais: o dicionário de dados, o modelo conceitual, o modelo lógico e o modelo físico
 
 -----------------------------------
-  Banco de Dados – MySQL Workbench
+ MySQL Workbench
 ------------------------------------------------
 Para dar suporte às funcionalidades do sistema, foi desenvolvido um banco de dados relacional no MySQL Workbench, garantindo a persistência e a organização dos dados de administradores, fornecedores e produtos.
 
