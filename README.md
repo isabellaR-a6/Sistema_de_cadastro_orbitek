@@ -20,10 +20,9 @@
 --------------
 # Índice
 
-
 <div align="center">
 
-## <img src="https://via.placeholder.com/15/0056B2/0056B2.png" alt="quadrado azul" /> **SPRINT 1**
+## 🟦 **SPRINT 1**
 <a href="#funcionalidades">
   <img src="https://img.shields.io/badge/Funcionalidades-0056B2?style=for-the-badge&logo=tasklist&logoColor=white" />
 </a>
@@ -45,14 +44,14 @@
 
 ---
 
-## <img src="https://via.placeholder.com/15/530000/530000.png" alt="quadrado vermelho escuro" /> **SPRINT 2**
+## 🟩 **SPRINT 2**
 <a href="#banco-de-dados">
   <img src="https://img.shields.io/badge/Banco_de_Dados-530000?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>
 
 ---
 
-## <img src="https://via.placeholder.com/15/A00000/A00000.png" alt="quadrado vermelho" /> **SPRINT 3**
+## 🟧 **SPRINT 3**
 <a href="#php">
   <img src="https://img.shields.io/badge/PHP-A00000?style=for-the-badge&logo=php&logoColor=white" />
 </a>
@@ -70,6 +69,7 @@
 </a>
 
 </div>
+
 
 
 -----------------
