@@ -70,12 +70,13 @@
 <a href="#novo-visual">
   <img src="https://img.shields.io/badge/Novo_Visual-530000?style=for-the-badge&logo=paintbrush&logoColor=white" />
 </a>
-<a href="#conclusão">
-  <img src="https://img.shields.io/badge/Conclusão-A00000?style=for-the-badge&logo=check-circle&logoColor=white" />
-</a>
 <a href="#contatos">
   <img src="https://img.shields.io/badge/Contatos-EC0000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="#conclusão">
+  <img src="https://img.shields.io/badge/Conclusão-A00000?style=for-the-badge&logo=check-circle&logoColor=white" />
+</a>
+
 
 </div>
 
@@ -293,8 +294,8 @@ Novo visual
 | Enzo Avanze                       | Desenvolvedor  | [enzo.avanze@aluno.senai.br](mailto:enzo.avanze@aluno.senai.br) |
 
 -----------
-🏆 Conclusão
--
+🏆# Conclusão
+----
 
 O projeto União Química foi concluído com sucesso, atendendo todos os objetivos propostos nas três sprints: desenvolvimento de interfaces responsivas, modelagem robusta de banco de dados MySQL e implementação de operações CRUD via PHP.​
 A integração de tecnologias como HTML5, CSS3, Figma e ClickUp resultou em um sistema escalável, seguro e user-friendly, otimizando cadastros de administradores, fornecedores e produtos para maior eficiência operacional da União Química.​​
