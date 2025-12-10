@@ -48,6 +48,21 @@
 <a href="#banco-de-dados">
   <img src="https://img.shields.io/badge/Banco_de_Dados-530000?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>
+<a href="#mysql-workbench">
+  <img src="https://img.shields.io/badge/MySQL_Workbench-530000?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+<a href="#modelo-conceitual">
+  <img src="https://img.shields.io/badge/Modelo_Conceitual-530000?style=for-the-badge" />
+</a>
+<a href="#modelo-lógico">
+  <img src="https://img.shields.io/badge/Modelo_Lógico-530000?style=for-the-badge" />
+</a>
+<a href="#modelo-físico">
+  <img src="https://img.shields.io/badge/Modelo_Físico-530000?style=for-the-badge" />
+</a>
+<a href="#cronograma-sprint2">
+  <img src="https://img.shields.io/badge/Cronograma-530000?style=for-the-badge&logo=clock&logoColor=white" />
+</a>
 
 ---
 
