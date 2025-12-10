@@ -294,7 +294,7 @@ Novo visual
 | Enzo Avanze                       | Desenvolvedor  | [enzo.avanze@aluno.senai.br](mailto:enzo.avanze@aluno.senai.br) |
 
 -----------
-🏆# Conclusão
+## 🏆Conclusão
 ----
 
 O projeto União Química foi concluído com sucesso, atendendo todos os objetivos propostos nas três sprints: desenvolvimento de interfaces responsivas, modelagem robusta de banco de dados MySQL e implementação de operações CRUD via PHP.​
